@@ -1,2 +1,2 @@
 # javaScript
-JavaScript derlseri
+JavaScript dersleri

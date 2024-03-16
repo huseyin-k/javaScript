@@ -1,2 +1,2 @@
 # javaScript
-JavaScript dersleri
+JavaScript konuları içeriyor
